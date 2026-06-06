@@ -94,5 +94,10 @@ npm run test:solutions     # the reference solutions are GREEN
   guaranteed. `lib` is `ES2022` only (no DOM) and `types: ["node"]`.
 - Tests that touch `process.env` must save/restore it (use `beforeEach`/`afterEach` or
   restore in a `finally`) so they don't leak into other tests.
+- HTTP/server tests: `listen(0)` for a random port, `fetch` against it, and `close()` in
+  an `after` hook so the process exits.
+- If a stub class has **given** (pre-implemented) members the throwing stubs don't call
+  yet (e.g. `load`/`save` in block 15), reference them with `void this.x;` in a stub so
+  `noUnusedLocals` (TS6133) stays happy until the student wires them up.
 - Workflow: commit & push to **`dev`**; the user merges `dev` → `main`. Commits are
   authored as the user alone (no Co-Authored-By / AI mention).
