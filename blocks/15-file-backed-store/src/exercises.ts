@@ -22,6 +22,8 @@ export class FileStore<T extends { id: number }> {
 
   // 1. Return every stored item.
   async all(): Promise<T[]> {
+    void this.load;
+    void this.save; // remove these lines once you call the given load()/save() helpers
     // TODO: return this.load()
     throw new Error("Not implemented");
   }
