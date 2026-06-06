@@ -1,0 +1,30 @@
+{
+  "name": "node-in-a-month",
+  "version": "1.0.0",
+  "description": "Learn Node.js in a month with hands-on, test-driven, strictly-typed exercises.",
+  "type": "module",
+  "scripts": {
+    "test": "node --import tsx --test \"blocks/**/tests/*.test.ts\"",
+    "test:solutions": "node --import tsx --test \"blocks/**/solutions/*.solution.test.ts\"",
+    "typecheck": "tsc --noEmit",
+    "play": "tsx"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "learning",
+    "exercises",
+    "tutorial",
+    "tdd",
+    "typescript"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
