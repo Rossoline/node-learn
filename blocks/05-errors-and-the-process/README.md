@@ -1,5 +1,7 @@
 # Block 05 — Errors & the Process
 
+**English** · [Українська](./README.uk.md)
+
 How Node programs fail well: typed error handling, custom error classes, and exiting with
 the right **exit code** so other tools can react.
 

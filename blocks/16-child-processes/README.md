@@ -1,5 +1,7 @@
 # Block 16 — Child Processes
 
+**English** · [Українська](./README.uk.md)
+
 Node can run **other programs** — git, ffmpeg, another script — through
 `node:child_process`. There are two styles you'll use most.
 

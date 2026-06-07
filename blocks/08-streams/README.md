@@ -1,5 +1,7 @@
 # Block 08 — Streams
 
+**English** · [Українська](./README.uk.md)
+
 Streams process data **in chunks** instead of loading it all into memory — essential for
 big files, network sockets, and anything you can start handling before it's fully arrived.
 

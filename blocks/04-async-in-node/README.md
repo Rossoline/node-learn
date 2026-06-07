@@ -1,5 +1,7 @@
 # Block 04 — Async in Node
 
+**English** · [Українська](./README.uk.md)
+
 Node is built around **non-blocking** I/O: instead of waiting, you schedule work and get
 called back later. Today that means **promises** and `async`/`await`.
 

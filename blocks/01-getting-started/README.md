@@ -1,5 +1,7 @@
 # Block 01 — Getting Started
 
+**English** · [Українська](./README.uk.md)
+
 ## What is Node.js?
 
 Node.js runs JavaScript **outside the browser** — on your machine or a server. Instead of

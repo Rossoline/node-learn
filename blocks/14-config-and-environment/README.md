@@ -1,5 +1,7 @@
 # Block 14 — Config & Environment
 
+**English** · [Українська](./README.uk.md)
+
 Configuration comes from the **environment** (`process.env`) so the same code runs in
 dev, CI, and production without edits. The skills: read env vars, load a `.env` file, and
 **validate** what you got into a typed config — failing fast on mistakes.

@@ -1,5 +1,7 @@
 # Node.js in a Month 🟢
 
+**English** · [Українська](./README.uk.md)
+
 > Learn **Node.js** the way you actually get good at it: by building. 20 hands-on,
 > **test-driven** blocks in strict **TypeScript**, tested with Node's **built-in**
 > `node:test` runner — no test framework to install.

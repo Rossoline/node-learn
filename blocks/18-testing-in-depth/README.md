@@ -1,5 +1,7 @@
 # Block 18 — Testing in Depth
 
+**English** · [Українська](./README.uk.md)
+
 You've used `node:test` since block 01. Here are the features that make it a real test
 framework — and how to write code that's **easy to test**.
 

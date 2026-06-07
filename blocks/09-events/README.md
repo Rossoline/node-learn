@@ -1,5 +1,7 @@
 # Block 09 — Events
 
+**English** · [Українська](./README.uk.md)
+
 Much of Node is **event-driven**: servers, streams, and processes all emit events you
 subscribe to. The pattern is `EventEmitter`.
 

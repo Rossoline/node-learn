@@ -1,5 +1,7 @@
 # Block 11 — HTTP Server Basics
 
+**English** · [Українська](./README.uk.md)
+
 Node can be a web server with no framework — just `node:http`.
 
 ## A minimal server

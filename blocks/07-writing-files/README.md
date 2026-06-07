@@ -1,5 +1,7 @@
 # Block 07 — Writing Files
 
+**English** · [Українська](./README.uk.md)
+
 Writing mirrors reading: same `node:fs/promises` module, just the other direction.
 
 ## Writing & appending

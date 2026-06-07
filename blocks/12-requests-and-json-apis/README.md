@@ -1,5 +1,7 @@
 # Block 12 — Requests & JSON APIs
 
+**English** · [Українська](./README.uk.md)
+
 A JSON API needs two things the raw server doesn't give you for free: the **parsed URL**
 (path + query) and the **request body**.
 

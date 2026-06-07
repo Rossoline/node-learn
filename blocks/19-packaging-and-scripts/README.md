@@ -1,5 +1,7 @@
 # Block 19 — Packaging & Scripts
 
+**English** · [Українська](./README.uk.md)
+
 `package.json` is the manifest that turns a folder of code into an installable, runnable
 package.
 

@@ -1,5 +1,7 @@
 # Block 10 — Buffers & Encoding
 
+**English** · [Українська](./README.uk.md)
+
 A **`Buffer`** is Node's container for **raw bytes** — the data behind files, sockets, and
 crypto. Text is just bytes under some **encoding** (usually UTF-8).
 

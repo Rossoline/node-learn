@@ -1,5 +1,7 @@
 # Block 02 — Modules & npm
 
+**English** · [Українська](./README.uk.md)
+
 ## ES Modules vs CommonJS
 
 Node has two module systems:

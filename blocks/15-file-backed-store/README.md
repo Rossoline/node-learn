@@ -1,5 +1,7 @@
 # Block 15 — A File-Backed Data Store
 
+**English** · [Українська](./README.uk.md)
+
 A simple way to persist data without a database: keep a JSON file and load/save it. We'll
 wrap that in a **typed, generic repository** — the pattern behind many small tools.
 

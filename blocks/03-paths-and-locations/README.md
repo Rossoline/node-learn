@@ -1,5 +1,7 @@
 # Block 03 — Paths & Locations
 
+**English** · [Українська](./README.uk.md)
+
 File paths differ across operating systems (`/` on macOS/Linux, `\` on Windows). The
 `node:path` module builds and parses them **portably** — never hand-concatenate paths.
 

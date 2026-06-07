@@ -1,5 +1,7 @@
 # 📅 The 4-Week Plan
 
+**English** · [Українська](./PLAN.uk.md)
+
 **Goal:** Become comfortable building real, idiomatic Node.js in strict TypeScript — from
 the runtime fundamentals up to a small HTTP API and CLI.
 

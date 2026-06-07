@@ -1,5 +1,7 @@
 # Block 17 — CLI Tools
 
+**English** · [Українська](./README.uk.md)
+
 A command-line tool reads **arguments** and **stdin**, writes **stdout**, and signals
 success with an **exit code**. Node has everything built in.
 

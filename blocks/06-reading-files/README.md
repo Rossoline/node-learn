@@ -1,5 +1,7 @@
 # Block 06 — Reading Files
 
+**English** · [Українська](./README.uk.md)
+
 Node reads files through `node:fs`. Use the **promise-based** API (`node:fs/promises`) so
 you can `await` instead of nesting callbacks.
 
